@@ -17,4 +17,5 @@
 " />
 
 ## Task05:
-<img width="1059" height="317" alt="image" src="YOUR_TASK_5_IMAGE_LINK_HERE" />
+<img width="1059" height="317" alt="image" src="<img width="565" height="130" alt="image" src="https://github.com/user-attachments/assets/0daaf649-94a2-4507-a67b-66fc18476489" />
+" />
